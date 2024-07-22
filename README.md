@@ -8,21 +8,12 @@
 
 ### Video 2
 
-<video width="600" controls>
-  <source src="URL_OF_VIDEO_2.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![GIF 1](https://raw.githubusercontent.com/FelixDou/cv_keio_light_field_rendering/main/videos/circle_video.gif)
 
 ### Video 3
 
-<video width="600" controls>
-  <source src="URL_OF_VIDEO_3.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![GIF 1](https://raw.githubusercontent.com/FelixDou/cv_keio_light_field_rendering/main/videos/rotate_video.gif)
 
 ### Video 4
 
-<video width="600" controls>
-  <source src="URL_OF_VIDEO_4.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![GIF 1](https://raw.githubusercontent.com/FelixDou/cv_keio_light_field_rendering/main/videos/movable_video.gif)
