@@ -5,7 +5,7 @@
 ### Video 1
 
 <video width="600" controls>
-  <source src="https://raw.githubusercontent.com//FelixDou/cv_keio_light_field_rendering/blob/main/make_video.py" type="video/mp4">
+  <source src="https://raw.githubusercontent.com/FelixDou/cv_keio_light_field_rendering/blob/main/make_video.py" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
