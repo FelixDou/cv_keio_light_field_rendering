@@ -4,10 +4,7 @@
 
 ### Video 1
 
-<video width="600" controls>
-  <source src="https://raw.githubusercontent.com/FelixDou/cv_keio_light_field_rendering/main/output_video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![GIF 1](https://raw.githubusercontent.com/FelixDou/cv_keio_light_field_rendering/blob/main/videos/output_video.gif)
 
 ### Video 2
 
