@@ -4,7 +4,7 @@
 
 ### Video 1
 
-![GIF 1](https://raw.githubusercontent.com/FelixDou/cv_keio_light_field_rendering/blob/main/videos/output_video.gif)
+![GIF 1](https://raw.githubusercontent.com/FelixDou/cv_keio_light_field_rendering/main/videos/output_video.gif)
 
 ### Video 2
 
