@@ -1,4 +1,4 @@
-# cv_keio_light_field_rendering
+# Repository for the final task of the Computer Vision class from Keio University 2024
 
 ## Video Demonstrations
 
